@@ -1,0 +1,41 @@
+
+/* universal elements */
+
+img{
+    width: 9%;
+    
+}
+/* division gras and its elements */
+#gras p{
+    border-style: solid;
+    border-radius: 5px;
+   
+}
+#gras{
+    float: left;
+    width: 100%;
+    text-align: center;
+    
+}
+/* division nav and its elements */
+strong{
+    color: red;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#nav{
+    
+    float: right;
+    height: max-content;
+}
+#nav p{
+    text-align: right;
+   
+}
+#up{
+    top: 0%;
+}
+#down{
+    bottom: 0%;
+}
+

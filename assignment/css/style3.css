@@ -1,0 +1,43 @@
+body
+{
+	background-color:black;
+}
+
+#balle {
+    width: 12px;
+    height: 12px;
+    background-color: red;
+    border: red 2px solid;
+    border-radius : 12px;
+    position: relative;
+  }
+#warpper
+{
+	margin: auto;
+	width:45%;
+	
+}
+
+#im1{
+width:600px;
+height:400px;
+    }
+
+.choix
+{
+	
+	width:197px;
+	height:160px;
+   opacity:.5;
+position: relative;
+
+}
+
+#bouton
+{
+	margin: auto;
+	width:600px;
+    border-radius: 10px;
+	
+	
+}
